@@ -21,21 +21,13 @@ Page web com os links de músicas, jogos, sites de estudos, ou qualquer coisa qu
 <li> Html 
 <li> Css 
 <li> Figma
-<li> Visual Studio Code
-<li> Extensão do vsc "Live Server"
 
 </br>
 
-## Como executar o programa 
 ```bash
-git clone git@github.com:alinenog/NLW_eSports-Stage.git
+✳️Link de acesso 
+https://alinenogmartins.github.io/NLW_eSports-Stage/
 
 ```
-</br>
-✳️Link de acesso </br>
-https://alinenog.github.io/NLW_eSports-Stage/
-
-</br>
-
 ### Autora
-Aline Nogueir@ 👩🏻‍💻
+💜 Aline Nogueir@ 👩🏻‍💻
