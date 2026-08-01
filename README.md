@@ -26,7 +26,7 @@ Page web com os links de músicas, jogos, sites de estudos, ou qualquer coisa qu
 
 ✳️Link de acesso 
 ```bash
-https://alinenogmartins.github.io/NLW_eSports-Stage/
+https://alinenogmartins.github.io/agregador-de-links/
 ```
 ### Autora
 💜 Aline Nogueir@ 👩🏻‍💻
