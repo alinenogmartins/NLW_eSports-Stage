@@ -24,10 +24,9 @@ Page web com os links de músicas, jogos, sites de estudos, ou qualquer coisa qu
 
 </br>
 
-```bash
 ✳️Link de acesso 
+```bash
 https://alinenogmartins.github.io/NLW_eSports-Stage/
-
 ```
 ### Autora
 💜 Aline Nogueir@ 👩🏻‍💻
